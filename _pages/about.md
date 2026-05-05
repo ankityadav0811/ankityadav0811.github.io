@@ -25,13 +25,13 @@ redirect_from:
 <table style="width:100%; border-collapse: collapse; border: none; text-align: center;">
   <tr>
     <td style="border: none; width: 20%;">
-      <strong style="color: green;">BATTERIES</strong><br>
+      <strong style="color: green;">Al thin films</strong><br>
       <img src="/images/pub1.jpg" style="width: 100%;"><br>
       <strong style="color: red;">JACS</strong>, 2022<br>
       <a href="#">🔍 DOI</a>
     </td>
     <td style="border: none; width: 20%;">
-      <strong style="color: black;">CATALYSIS</strong><br>
+      <strong style="color: black;">Realistic GBs</strong><br>
       <img src="/images/pub2.jpg" style="width: 100%;"><br>
       <strong style="color: red;">Nat. Energy</strong>, 2023<br>
       <a href="#">🔍 DOI</a>
