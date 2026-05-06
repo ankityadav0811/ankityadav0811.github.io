@@ -20,40 +20,26 @@ redirect_from:
 * **2010-2014** BE in Mechanical Engineering at SCVE Indore, India
 
 ### <span style="background-color: black; color: white; padding: 2px 5px;">Selected Publications</span>
-
 <table style="width:100%; border-collapse: collapse; border: none; text-align: center;">
   <tr>
-    <td style="border: none; width: 20%;">
-      <strong style="color: green;">Al thin films</strong><br>
-      <img src="/images/pub1.jpg" style="width: 100%;"><br>
-      <strong style="color: red;">JACS</strong>, 2022<br>
-      <a href="#">🔍 DOI</a>
+    <td style="border: none; width: 33%;">
+      <strong style="color: green;">Al Thin Films / Realistic GBs</strong><br>
+      <img src="/images/grainboundary.png" style="width: 100%;"><br>
+      <strong style="color: red;">Acta Materialia</strong>, 2024<br>
+      <a href="https://doi.org/10.1016/j.actamat.2024.120084">🔍 DOI</a>
     </td>
-    <td style="border: none; width: 20%;">
-      <strong style="color: black;">Realistic GBs</strong><br>
-      <img src="/images/pub2.jpg" style="width: 100%;"><br>
-      <strong style="color: red;">Nat. Energy</strong>, 2023<br>
-      <a href="#">🔍 DOI</a>
+    <td style="border: none; width: 33%;">
+      <strong style="color: orange;">Reactive Multilayers</strong><br>
+      <img src="/images/multilayer.png" style="width: 100%;"><br>
+      <strong style="color: red;">Philosophical Magazine</strong>, 2026<br>
+      <a href="https://doi.org/10.1080/14786435.2025.2554120">🔍 DOI</a>
     </td>
-    <td style="border: none; width: 20%;">
-      <strong style="color: orange;">CAPACITORS</strong><br>
-      <img src="/images/pub3.jpg" style="width: 100%;"><br>
-      <strong style="color: red;">Nat. Mater.</strong>, 2023<br>
-      <a href="#">🔍 DOI</a>
-    </td>
-    <td style="border: none; width: 20%;">
-      <strong style="color: purple;">POLYMERS</strong><br>
-      <img src="/images/pub4.jpg" style="width: 100%;"><br>
-      <strong style="color: red;">Science</strong>, 2023<br>
-      <a href="#">🔍 DOI</a>
-    </td>
-    <td style="border: none; width: 20%;">
-      <strong style="color: blue;">TOPOLOGY</strong><br>
-      <img src="/images/pub5.jpg" style="width: 100%;"><br>
-      <strong style="color: red;">JACS</strong>, 2024<br>
-      <a href="#">🔍 DOI</a>
+    <td style="border: none; width: 33%;">
+      <strong style="color: blue;">Biomaterials</strong><br>
+      <img src="/images/biomaterial.png" style="width: 100%;"><br>
+      <strong style="color: red;">Trans. Indian Inst. Met.</strong>, 2019<br>
+      <a href="https://doi.org/10.1007/s12666-018-01556-1">🔍 DOI</a>
     </td>
   </tr>
 </table>
-
 ---
