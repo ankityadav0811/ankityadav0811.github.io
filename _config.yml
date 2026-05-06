@@ -34,17 +34,17 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/user/"
   googlescholar    : "https://scholar.google.com/citations?user=v9TwnV0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2142-231X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Ankit-Yadav-19?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57205586580"
-  zotero           : # URL
+  arxiv            : "https://arxiv.org/user/"
+  #zotero           : # URL
 
 
   # Repositories and software development
