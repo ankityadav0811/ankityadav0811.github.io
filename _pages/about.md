@@ -16,8 +16,8 @@ redirect_from:
 ### Academia Experience
 * **2022-2026** PhD in Advanced Materials and Nanosciences at CEITEC Brno University of Technology, & Institute of Physics of Materials CAS, Czech Republic
 * **2018-2021** Assistant Professor at Birla Vishvakarma Mahavidyalaya Engineering College, India
-* **2015-2017** MTech in Materials Technology at National Institute of Technology, Warangal, India
-* **2010-2014** BE in Mechanical Engineering at SCVE Indore, India
+* **2015-2017** M.Tech in Materials Technology at National Institute of Technology, Warangal, India
+* **2010-2014** B.E. in Mechanical Engineering at SCVE Indore, India
 
 ### <span style="background-color: black; color: white; padding: 2px 5px;">Selected Publications</span>
 <table style="width:100%; border-collapse: collapse; border: none; text-align: center;">
@@ -31,7 +31,7 @@ redirect_from:
     <td style="border: none; width: 33%;">
       <strong style="color: orange;">Reactive Multilayers</strong><br>
       <img src="/images/multilayer.png" style="width: 100%;"><br>
-      <strong style="color: red;">Philosophical Magazine</strong>, 2026<br>
+      <strong style="color: red;">Philosophical Magazine</strong>, 2025<br>
       <a href="https://doi.org/10.1080/14786435.2025.2554120">🔍 DOI</a>
     </td>
     <td style="border: none; width: 33%;">
