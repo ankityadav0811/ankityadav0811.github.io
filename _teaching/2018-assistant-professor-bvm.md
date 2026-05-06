@@ -25,3 +25,5 @@ Designed industry-oriented curriculum and supervised student research projects. 
 <br><br><br><br><br>
 <br><br><br><br><br>
 <br><br><br><br><br>
+<br><br><br><br><br>
+<div style="min-height: 400px;"></div>
