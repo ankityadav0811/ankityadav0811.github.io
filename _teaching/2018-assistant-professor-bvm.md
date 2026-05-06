@@ -19,4 +19,9 @@ Assistant Professor | July 2018 – March 2021
 
 ## Responsibilities
 Designed industry-oriented curriculum and supervised student research projects. Delivered lectures, hands-on training sessions, and technical demonstrations to cohorts with varying levels of prior knowledge, developing strong skills in communicating complex concepts to diverse audiences. Mentored students in academic and career development.
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
+<br><br><br><br><br>
 <br><br><br><br><br>
