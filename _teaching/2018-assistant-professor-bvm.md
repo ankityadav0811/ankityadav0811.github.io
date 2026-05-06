@@ -1,9 +1,9 @@
 ---
-title: "Assistant Professor — Metallurgy & Materials Science"
+title: "Assistant Professor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-assistant-professor-bvm
-venue: "Birla Vishvakarma Mahavidyalaya Engineering College, Department of Metallurgy"
+venue: "Birla Vishvakarma Mahavidyalaya Engineering College, Department of Mechanical Engeering"
 date: 2018-07-01
 location: "Anand, India"
 ---
