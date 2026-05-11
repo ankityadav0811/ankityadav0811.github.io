@@ -3,7 +3,6 @@ layout: single
 title: "Contact"
 permalink: /contact/
 author_profile: true
-
 ---
 
 <div style="text-align: center;">
@@ -11,7 +10,7 @@ author_profile: true
 ### Email
 [yadav@ipm.cz](mailto:yadav@ipm.cz)
 
----
+<br>
 
 ### Current Affiliation
 
@@ -27,7 +26,7 @@ Brno University of Technology
 Purkyňova 123, 612 00 Brno, Czech Republic  
 Department Page [[website](https://www.ceitec.eu/ankit-yadav/u94034)]
 
----
+<br>
 
 ### Mail Address
 Institute of Physics of Materials (IPM CAS)  
