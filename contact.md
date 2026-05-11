@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-
+<div style="text-align: center;">
 ### Email
 [yadav@ipm.cz](mailto:yadav@ipm.cz)
 
