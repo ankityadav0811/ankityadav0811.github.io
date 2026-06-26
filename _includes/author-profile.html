@@ -75,9 +75,11 @@
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
       {% if author.Sciprofile %}
-       <li><a href="{{ author.Sciprofile }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> SciProfiles</a></li>
+        <li><a href="{{ author.Sciprofile }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> SciProfiles</a></li>
       {% endif %}
-      
+      {% if author.webofscience %}
+        <li><a href="{{ author.webofscience }}"><i class="fas fa-fw fa-search" aria-hidden="true"></i> Web of Science</a></li>
+      {% endif %}
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
