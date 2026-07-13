@@ -31,10 +31,10 @@ redirect_from:
     <td style="border: none; width: 33%;">
       <strong style="color: orange;">Reactive Multilayers</strong><br>
       <img src="/images/multilayer.png" style="width: 100%;"><br>
-      <strong style="color: red;">Philosophical Magazine</strong>, 2025<br>
-      <a href="https://doi.org/10.1080/14786435.2025.2554120">🔍 DOI</a>
+      <strong style="color: red;">Journal of Applied Physics</strong>, 2025<br>
+      <a href="https://doi.org/10.1063/5.0338546">🔍 DOI</a>
     </td>
-    <td style="border: none; width: 33%;">
+      <td style="border: none; width: 33%;">
       <strong style="color: blue;">Biomaterials</strong><br>
       <img src="/images/biomaterial.png" style="width: 100%;"><br>
       <strong style="color: red;">Trans. Indian Inst. Met.</strong>, 2019<br>
