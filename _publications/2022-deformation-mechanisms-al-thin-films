@@ -8,3 +8,10 @@ venue: 'Scripta Materialia'
 paperurl: 'https://doi.org/10.1016/j.scriptamat.2022.114688'
 citation: 'Lucia Bajtošová, Barbora Křivská, Rostislav Králík, Jozef Veselý, Jan Hanuš, Petr Harcuba, Jan Fikar, Ankit Yadav, and Miroslav Cieslar. &quot;Deformation mechanisms of Al thin films: In-situ TEM and molecular dynamics study.&quot; <i>Scripta Materialia</i>. 215, 114688, (2022).'
 ---
+
+<style>
+  .archive__item-title {
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
+</style>
