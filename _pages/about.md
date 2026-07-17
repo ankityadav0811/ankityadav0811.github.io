@@ -24,14 +24,14 @@ redirect_from:
   <tr>
     <td style="border: none; width: 33%;">
       <strong style="color: green;">Al Thin Films / Realistic GBs</strong><br>
-      <img src="/images/grainboundary.png" style="width: 100%;"><br>
+      <img src="/images/gb.png" style="width: 100%;"><br>
       <strong style="color: red;">Acta Materialia</strong>, 2024<br>
       <a href="https://doi.org/10.1016/j.actamat.2024.120084">🔍 DOI</a>
     </td>
     <td style="border: none; width: 33%;">
       <strong style="color: orange;">Reactive Multilayers</strong><br>
       <img src="/images/multilayer.png" style="width: 100%;"><br>
-      <strong style="color: red;">Journal of Applied Physics</strong>, 2025<br>
+      <strong style="color: red;">Journal of Applied Physics</strong>, 2026<br>
       <a href="https://doi.org/10.1063/5.0338546">🔍 DOI</a>
     </td>
       <td style="border: none; width: 33%;">
